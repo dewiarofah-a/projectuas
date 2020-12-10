@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829202361761",
+    "project_id": "akusehat-12be4",
+    "storage_bucket": "akusehat-12be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829202361761:android:3af085955815158cf16fe0",
+        "android_client_info": {
+          "package_name": "com.example.akusehat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829202361761-rnnbufacj8k2sdnp5aoqtkao9e03pli1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL8zpxzJXOiS8btW11UYP6lBQ7qFCKQKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829202361761-rnnbufacj8k2sdnp5aoqtkao9e03pli1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
